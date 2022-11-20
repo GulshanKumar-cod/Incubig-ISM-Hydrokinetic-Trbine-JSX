@@ -4,9 +4,6 @@ import './App.css';
 function App() {
   return (
     <>
-  <title />
-  <meta httpEquiv="Content-Type" content="text/html; charset=UTF-8" />
-  <br />
   <style
     type="text/css"
   />
