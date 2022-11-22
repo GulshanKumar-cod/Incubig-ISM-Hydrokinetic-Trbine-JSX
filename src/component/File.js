@@ -82,7 +82,7 @@ const File = () => {
             >
                 <img width={892} height={1263} src="target002.png" alt="background image" />
                 <p
-                    style={{ position: "absolute", top: 252, left: 67, whiteSpace: "nowrap", fontSize: "14px", lineHeight: "22px", fontFamily: "Times", color: "#070a25" }}
+                    style={{ position: "absolute", top: 252, left: 67, whiteSpace: "nowrap", fontFamily: "Times", color: "#070a25" }}
                     className="ft26"
                 >
                     With&nbsp;India's&nbsp;top&nbsp;universities,&nbsp;big&nbsp;organizations&nbsp;in&nbsp;the&nbsp;United&nbsp;States,&nbsp;and&nbsp;leading&nbsp;research&nbsp;organizations
@@ -90,7 +90,7 @@ const File = () => {
                     in&nbsp;South&nbsp;Korea&nbsp;and&nbsp;Europe,&nbsp;as&nbsp;our&nbsp;clients,&nbsp;&nbsp;we&nbsp;work&nbsp;across&nbsp;the&nbsp;global&nbsp;economy.&nbsp;
                 </p>
                 <p
-                    style={{ position: "absolute", top: 319, left: 67, whiteSpace: "nowrap", fontSize: "14px", lineHeight: "22px", fontFamily: "Times", color: "#070a25" }}
+                    style={{ position: "absolute", top: 319, left: 67, whiteSpace: "nowrap",  fontFamily: "Times", color: "#070a25" }}
                     className="ft26"
                 >
                     We&nbsp;are&nbsp;enabling&nbsp;our&nbsp;global&nbsp;user&nbsp;base&nbsp;to&nbsp;make&nbsp;informed&nbsp;research&nbsp;and&nbsp;business&nbsp;decisions&nbsp;driven&nbsp;by&nbsp;our&nbsp;IP
@@ -100,13 +100,13 @@ const File = () => {
                     technological&nbsp;advancements.
                 </p>
                 <p
-                    style={{ position: "absolute", top: 409, left: 67, whiteSpace: "nowrap", fontFamily: "Times", fontSize: "14px", color: "070a25" }}
+                    style={{ position: "absolute", top: 409, left: 67, whiteSpace: "nowrap", fontFamily: "Times", color: "070a25" }}
                     className="ft20"
                 >
                     Our&nbsp;mission&nbsp;is&nbsp;to&nbsp;accelerate&nbsp;innovation&nbsp;on&nbsp;a&nbsp;global&nbsp;scale.
                 </p>
                 <p
-                    style={{ position: "absolute", top: 454, left: 67, whiteSpace: "nowrap", fontSize: "14px", lineHeight: "22px", fontFamily: "Times", color: "#070a25" }}
+                    style={{ position: "absolute", top: 454, left: 67, whiteSpace: "nowrap", fontFamily: "Times", color: "#070a25" }}
                     className="ft26"
                 >
                     Patents&nbsp;&nbsp;are&nbsp;&nbsp;key&nbsp;&nbsp;source&nbsp;&nbsp;of&nbsp;&nbsp;innovation.&nbsp;&nbsp;It&nbsp;&nbsp;is&nbsp;&nbsp;the&nbsp;&nbsp;most&nbsp;&nbsp;trustworthy&nbsp;&nbsp;source&nbsp;&nbsp;of&nbsp;&nbsp;research&nbsp;&nbsp;and&nbsp;&nbsp;business
@@ -116,7 +116,7 @@ const File = () => {
                     time,&nbsp;can&nbsp;guide&nbsp;and&nbsp;accelerate&nbsp;innovation.&nbsp;
                 </p>
                 <p
-                    style={{ position: "absolute", top: 544, left: 67, whiteSpace: "nowrap", fontSize: "14px", lineHeight: "22px", fontFamily: "Times", color: "#070a25" }}
+                    style={{ position: "absolute", top: 544, left: 67, whiteSpace: "nowrap", fontFamily: "Times", color: "#070a25" }}
                     className="ft26"
                 >
                     With&nbsp;&nbsp;our&nbsp;&nbsp;proprietary&nbsp;&nbsp;AI&nbsp;&nbsp;technologies&nbsp;&nbsp;and&nbsp;&nbsp;deep&nbsp;&nbsp;expertise&nbsp;&nbsp;in&nbsp;&nbsp;IP&nbsp;&nbsp;management&nbsp;&nbsp;and&nbsp;&nbsp;analytics,&nbsp;&nbsp;we&nbsp;&nbsp;are
@@ -129,7 +129,7 @@ const File = () => {
                 </p>
                 <p
                     style={{
-                        position: "absolute", top: 110, left: 60, whiteSpace: "nowrap", fontFamily: "Times", fontSize: "16px",
+                        position: "absolute", top: 110, left: 60, whiteSpace: "nowrap", fontFamily: "Times",
                         color: "#070a25"
                     }}
                     className="ft21"
@@ -288,7 +288,7 @@ const File = () => {
                         left: 89,
                         whiteSpace: "nowrap",
                         fontFamily: "Times",
-                        fontSize: "12px",
+                        fontSize: "15px",
                         color: "white"
                     }}
                     className="ft24"
@@ -298,7 +298,7 @@ const File = () => {
                 <p
                     style={{
                         position: "absolute", top: 177, left: 67, whiteSpace: "nowrap", fontFamily: "Times",
-                        fontSize: "12px",
+                        fontSize: "16px",
                         color: "#070a25"
                     }}
                     className="ft25"
