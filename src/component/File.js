@@ -5038,7 +5038,7 @@ const File = () => {
                     R&amp;D,&nbsp;and&nbsp;business&nbsp;strategies.&nbsp;
                 </p>
                 <p
-                    style={{ position: "absolute", top: 906, left: 31, whiteSpace: "nowrap" }}
+                    style={{ position: "absolute", top: 906, left: 31, whiteSpace: "nowrap", fontSize: "30px", color: "#000000", lineHeight: "35px"}}
                     className="ft227"
                 >
                     Please&nbsp;reach&nbsp;out&nbsp;to&nbsp;us&nbsp;at
@@ -5348,6 +5348,7 @@ const File = () => {
                         position: "absolute",
                         top: 1134,
                         left: 137,
+                        fontSize: "20px",
                         whiteSpace: "nowrap"
                     }}
                     className="ft236"
@@ -5359,7 +5360,10 @@ const File = () => {
                         position: "absolute",
                         top: 1157,
                         left: 293,
-                        whiteSpace: "nowrap"
+                        whiteSpace: "nowrap",
+                        fontSize: "20px",
+                        textDecoration: "none",
+                        fontStyle: "none"
                     }}
                     className="ft236"
                 >
@@ -5604,7 +5608,8 @@ const File = () => {
                         position: "absolute",
                         top: 977,
                         left: 474,
-                        whiteSpace: "nowrap"
+                        whiteSpace: "nowrap",
+                        fontSize: "15px"
                     }}
                     className="ft247"
                 >
@@ -5615,7 +5620,8 @@ const File = () => {
                         position: "absolute",
                         top: 993,
                         left: 474,
-                        whiteSpace: "nowrap"
+                        whiteSpace: "nowrap",
+                        fontSize: "15px"
                     }}
                     className="ft247"
                 >
@@ -5650,7 +5656,8 @@ const File = () => {
                         position: "absolute",
                         top: 848,
                         left: 474,
-                        whiteSpace: "nowrap"
+                        whiteSpace: "nowrap",
+                        fontSize: "15px"
                     }}
                     className="ft247"
                 >
@@ -5661,7 +5668,8 @@ const File = () => {
                         position: "absolute",
                         top: 864,
                         left: 474,
-                        whiteSpace: "nowrap"
+                        whiteSpace: "nowrap",
+                        fontSize: "15px"
                     }}
                     className="ft247"
                 >
@@ -5672,7 +5680,8 @@ const File = () => {
                         position: "absolute",
                         top: 1073,
                         left: 477,
-                        whiteSpace: "nowrap"
+                        whiteSpace: "nowrap",
+                        fontSize: "15px"
                     }}
                     className="ft247"
                 >
@@ -5694,7 +5703,8 @@ const File = () => {
                         position: "absolute",
                         top: 1152,
                         left: 474,
-                        whiteSpace: "nowrap"
+                        whiteSpace: "nowrap",
+                        fontSize: "15px"
                     }}
                     className="ft247"
                 >
