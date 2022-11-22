@@ -13,7 +13,7 @@ function App() {
   >
     <img width={892} height={1263} src="target001.png" alt="background image" />
     <p
-      style={{ position: "absolute", top: 580, left: 34, whiteSpace: "nowrap" }}
+      style={{position: "absolute",fontFamily: "Times",fontSize: "24px", top: 580, left: 34, whiteSpace: "nowrap"}}
       className="ft10"
     >
       Own&nbsp;Your&nbsp;Innovation&nbsp;Solution
@@ -23,14 +23,17 @@ function App() {
         position: "absolute",
         top: 1109,
         left: 89,
-        whiteSpace: "nowrap"
+        fontFamily: "Times",
+        fontSize: "19px",
+        whiteSpace: "nowrap",
+        color: "white"
       }}
       className="ft11"
     >
       <b>Sep,&nbsp;2022</b>
     </p>
     <p
-      style={{ position: "absolute", top: 996, left: 89, whiteSpace: "nowrap" }}
+      style={{ position: "absolute", top: 996, left: 89,fontFamily: "Times",fontSize: "24px", whiteSpace: "nowrap",color: "white" }}
       className="ft12"
     >
       Powered&nbsp;by
@@ -40,7 +43,10 @@ function App() {
         position: "absolute",
         top: 1025,
         left: 89,
-        whiteSpace: "nowrap"
+        fontFamily: "Times",
+        fontSize: "39px",
+        whiteSpace: "nowrap",
+        color: "white"
       }}
       className="ft13"
     >
@@ -51,6 +57,9 @@ function App() {
         position: "absolute",
         top: 1234,
         left: 474,
+        fontFamily: "Times",
+        fontSize: "16px",
+        color: "white",
         whiteSpace: "nowrap"
       }}
       className="ft14"
@@ -74,7 +83,7 @@ function App() {
   >
     <img width={892} height={1263} src="target002.png" alt="background image" />
     <p
-      style={{ position: "absolute", top: 252, left: 67, whiteSpace: "nowrap" }}
+      style={{ position: "absolute", top: 252, left: 67, whiteSpace: "nowrap", fontSize: "14px", lineHeight: "22px", fontFamily: "Times", color: "#070a25" }}
       className="ft26"
     >
       With&nbsp;India's&nbsp;top&nbsp;universities,&nbsp;big&nbsp;organizations&nbsp;in&nbsp;the&nbsp;United&nbsp;States,&nbsp;and&nbsp;leading&nbsp;research&nbsp;organizations
@@ -82,7 +91,7 @@ function App() {
       in&nbsp;South&nbsp;Korea&nbsp;and&nbsp;Europe,&nbsp;as&nbsp;our&nbsp;clients,&nbsp;&nbsp;we&nbsp;work&nbsp;across&nbsp;the&nbsp;global&nbsp;economy.&nbsp;
     </p>
     <p
-      style={{ position: "absolute", top: 319, left: 67, whiteSpace: "nowrap" }}
+      style={{ position: "absolute", top: 319, left: 67, whiteSpace: "nowrap",  fontSize: "14px", lineHeight: "22px", fontFamily: "Times", color: "#070a25" }}
       className="ft26"
     >
       We&nbsp;are&nbsp;enabling&nbsp;our&nbsp;global&nbsp;user&nbsp;base&nbsp;to&nbsp;make&nbsp;informed&nbsp;research&nbsp;and&nbsp;business&nbsp;decisions&nbsp;driven&nbsp;by&nbsp;our&nbsp;IP
@@ -92,13 +101,13 @@ function App() {
       technological&nbsp;advancements.
     </p>
     <p
-      style={{ position: "absolute", top: 409, left: 67, whiteSpace: "nowrap" }}
+      style={{ position: "absolute", top: 409, left: 67, whiteSpace: "nowrap",fontFamily: "Times", fontSize: "14px", color: "070a25" }}
       className="ft20"
     >
       Our&nbsp;mission&nbsp;is&nbsp;to&nbsp;accelerate&nbsp;innovation&nbsp;on&nbsp;a&nbsp;global&nbsp;scale.
     </p>
     <p
-      style={{ position: "absolute", top: 454, left: 67, whiteSpace: "nowrap" }}
+      style={{ position: "absolute", top: 454, left: 67, whiteSpace: "nowrap", fontSize: "14px", lineHeight: "22px", fontFamily: "Times", color: "#070a25" }}
       className="ft26"
     >
       Patents&nbsp;&nbsp;are&nbsp;&nbsp;key&nbsp;&nbsp;source&nbsp;&nbsp;of&nbsp;&nbsp;innovation.&nbsp;&nbsp;It&nbsp;&nbsp;is&nbsp;&nbsp;the&nbsp;&nbsp;most&nbsp;&nbsp;trustworthy&nbsp;&nbsp;source&nbsp;&nbsp;of&nbsp;&nbsp;research&nbsp;&nbsp;and&nbsp;&nbsp;business
@@ -108,7 +117,7 @@ function App() {
       time,&nbsp;can&nbsp;guide&nbsp;and&nbsp;accelerate&nbsp;innovation.&nbsp;
     </p>
     <p
-      style={{ position: "absolute", top: 544, left: 67, whiteSpace: "nowrap" }}
+      style={{ position: "absolute", top: 544, left: 67, whiteSpace: "nowrap", fontSize: "14px", lineHeight: "22px", fontFamily: "Times", color: "#070a25" }}
       className="ft26"
     >
       With&nbsp;&nbsp;our&nbsp;&nbsp;proprietary&nbsp;&nbsp;AI&nbsp;&nbsp;technologies&nbsp;&nbsp;and&nbsp;&nbsp;deep&nbsp;&nbsp;expertise&nbsp;&nbsp;in&nbsp;&nbsp;IP&nbsp;&nbsp;management&nbsp;&nbsp;and&nbsp;&nbsp;analytics,&nbsp;&nbsp;we&nbsp;&nbsp;are
@@ -120,13 +129,14 @@ function App() {
       drive&nbsp;the&nbsp;innovation.
     </p>
     <p
-      style={{ position: "absolute", top: 110, left: 60, whiteSpace: "nowrap" }}
+      style={{ position: "absolute", top: 110, left: 60, whiteSpace: "nowrap", fontFamily: "Times", fontSize: "16px",
+      color: "#070a25"}}
       className="ft21"
     >
       <b>ABOUT&nbsp;INCUBIG</b>
     </p>
     <p
-      style={{ position: "absolute", top: 942, left: 69, whiteSpace: "nowrap" }}
+      style={{ position: "absolute", top: 942, left: 69, whiteSpace: "nowrap", fontFamily: "Times", fontSize: "14px", lineHeight: "22px", color: "#070a25" }}
       className="ft27"
     >
       <b>Office</b>:<br />
@@ -141,7 +151,7 @@ function App() {
         position: "absolute",
         top: 1032,
         left: 69,
-        whiteSpace: "nowrap"
+        whiteSpace: "nowrap", fontSize: "14px", lineHeight: "22px", fontFamily: "Times", color: "#070a25"
       }}
       className="ft26"
     >
@@ -158,7 +168,10 @@ function App() {
         position: "absolute",
         top: 942,
         left: 398,
-        whiteSpace: "nowrap"
+        whiteSpace: "nowrap",
+        fontFamily: "Times", 
+        fontSize: "14px",
+        color: "#070a25"
       }}
       className="ft22"
     >
@@ -169,7 +182,10 @@ function App() {
         position: "absolute",
         top: 987,
         left: 398,
-        whiteSpace: "nowrap"
+        whiteSpace: "nowrap",
+        fontFamily: "Times", 
+        fontSize: "14px",
+        color: "#070a25"
       }}
       className="ft22"
     >
@@ -180,14 +196,19 @@ function App() {
         position: "absolute",
         top: 1032,
         left: 398,
-        whiteSpace: "nowrap"
+        whiteSpace: "nowrap",
+        fontFamily: "Times", 
+        fontSize: "14px",
+        color: "#070a25"
       }}
       className="ft22"
     >
       <b>E:&nbsp;</b>contact@incubig.org
     </p>
     <p
-      style={{ position: "absolute", top: 906, left: 70, whiteSpace: "nowrap" }}
+      style={{ position: "absolute", top: 906, left: 70, whiteSpace: "nowrap", fontFamily: "Times", 
+      fontSize: "15px",
+      color: "#070a25" }}
       className="ft23"
     >
       <b>
@@ -195,7 +216,7 @@ function App() {
       </b>
     </p>
     <p
-      style={{ position: "absolute", top: 740, left: 89, whiteSpace: "nowrap" }}
+      style={{ position: "absolute", top: 740, left: 89, whiteSpace: "nowrap", fontSize: "14px", lineHeight: "22px", fontFamily: "Times", color: "#070a25" }}
       className="ft26"
     >
       Leading&nbsp;Universities
@@ -209,7 +230,9 @@ function App() {
       Entrepreneurs&nbsp;
     </p>
     <p
-      style={{ position: "absolute", top: 699, left: 67, whiteSpace: "nowrap" }}
+      style={{ position: "absolute", top: 699, left: 67, whiteSpace: "nowrap", fontFamily: "Times", 
+      fontSize: "15px",
+      color: "#070a25" }}
       className="ft23"
     >
       <b>
@@ -221,7 +244,11 @@ function App() {
         position: "absolute",
         top: 740,
         left: 407,
-        whiteSpace: "nowrap"
+        whiteSpace: "nowrap",
+        fontSize: "14px",
+        lineHeight: "22px",
+        fontFamily: "Times",
+        color: "#070a25"
       }}
       className="ft26"
     >
@@ -238,7 +265,10 @@ function App() {
         position: "absolute",
         top: 699,
         left: 385,
-        whiteSpace: "nowrap"
+        whiteSpace: "nowrap",
+        fontFamily: "Times", 
+        fontSize: "15px",
+        color: "#070a25"
       }}
       className="ft23"
     >
@@ -251,14 +281,19 @@ function App() {
         position: "absolute",
         top: 1224,
         left: 89,
-        whiteSpace: "nowrap"
+        whiteSpace: "nowrap",
+        fontFamily: "Times", 
+        fontSize: "12px",
+        color: "white"
       }}
       className="ft24"
     >
       Incubig&nbsp;Innovations&nbsp;Pvt.&nbsp;Ltd.
     </p>
     <p
-      style={{ position: "absolute", top: 177, left: 67, whiteSpace: "nowrap" }}
+      style={{ position: "absolute", top: 177, left: 67, whiteSpace: "nowrap", fontFamily: "Times", 
+      fontSize: "12px",
+      color: "#070a25" }}
       className="ft25"
     >
       <b>INCUBIG&nbsp;INNOVATIONS&nbsp;PVT.&nbsp;LTD.</b>
